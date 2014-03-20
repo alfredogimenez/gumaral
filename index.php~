@@ -64,7 +64,7 @@
   		// Si se logueo correctamente lo dirigimos al index
   		if($usuario){
   			$_SESSION['usuario'] = $usuario;
-  			
+  			//$_SESSION['carrito'] = obtenerCarrito($usuario);
   			$app->redirect('./');
 
   		//Le avisamos que no se logueo correctamente

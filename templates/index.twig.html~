@@ -5,6 +5,7 @@
 
   {% include 'header-index.twig.html' %}
   {% include 'modal.login.twig.html' %}
+  {% include 'modal.registro.twig.html' %}
 {% endif %}
 
 
