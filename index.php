@@ -128,6 +128,7 @@
 	    $dbpass="alfredito";
 	    
 
+	    // test
 
 	    $dbname="gumaral";	   
 	    
